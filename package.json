@@ -7,7 +7,7 @@
 		"pnpm": "9.6.0"
 	},
 	"scripts": {
-		"dev": "vite dev",
+		"dev": "vite dev --host",
 		"build": "vite build",
 		"preview": "vite preview",
 		"start": "node build",
